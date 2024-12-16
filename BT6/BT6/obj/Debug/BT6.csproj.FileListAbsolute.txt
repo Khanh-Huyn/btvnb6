@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\BT6\BT6\bin\Debug\BT6.exe.config
+C:\Users\pc\source\repos\BT6\BT6\bin\Debug\BT6.exe
+C:\Users\pc\source\repos\BT6\BT6\bin\Debug\BT6.pdb
+C:\Users\pc\source\repos\BT6\BT6\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\BT6\BT6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\BT6\BT6\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\BT6\BT6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\BT6\BT6\obj\Debug\BT6.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\BT6\BT6\obj\Debug\BT6.Form1.resources
+C:\Users\pc\source\repos\BT6\BT6\obj\Debug\BT6.Properties.Resources.resources
+C:\Users\pc\source\repos\BT6\BT6\obj\Debug\BT6.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\BT6\BT6\obj\Debug\BT6.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BT6\BT6\obj\Debug\BT6.csproj.Up2Date
+C:\Users\pc\source\repos\BT6\BT6\obj\Debug\BT6.exe
+C:\Users\pc\source\repos\BT6\BT6\obj\Debug\BT6.pdb
